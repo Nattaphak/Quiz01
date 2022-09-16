@@ -7,11 +7,11 @@ public class InEx
 
     public string Expenses()
     {
-        return "Total expenses : 211,673.025 Baht";
+        return "Total expenses : 212,469.55 Baht";
     }
 
     public string Balance()
     {
-        return "Total balance : 24,480.975 Baht";
+        return "Total balance : 23,684.45 Baht";
     }
 }

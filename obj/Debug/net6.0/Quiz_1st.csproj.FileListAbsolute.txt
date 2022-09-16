@@ -1,0 +1,15 @@
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.csproj.AssemblyReference.cache
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.AssemblyInfoInputs.cache
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.AssemblyInfo.cs
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.csproj.CoreCompileInputs.cache
+D:\Quiz_1st\bin\Debug\net6.0\Quiz_1st.exe
+D:\Quiz_1st\bin\Debug\net6.0\Quiz_1st.deps.json
+D:\Quiz_1st\bin\Debug\net6.0\Quiz_1st.runtimeconfig.json
+D:\Quiz_1st\bin\Debug\net6.0\Quiz_1st.dll
+D:\Quiz_1st\bin\Debug\net6.0\Quiz_1st.pdb
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.dll
+D:\Quiz_1st\obj\Debug\net6.0\refint\Quiz_1st.dll
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.pdb
+D:\Quiz_1st\obj\Debug\net6.0\Quiz_1st.genruntimeconfig.cache
+D:\Quiz_1st\obj\Debug\net6.0\ref\Quiz_1st.dll

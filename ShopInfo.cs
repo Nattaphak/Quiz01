@@ -7,7 +7,7 @@ public class ShopInfo
 
     public string BranchName()
     {
-        return "branch name : Bangkhuntien Chai Talay";
+        return "branch name : KFC Bangkhuntien Chai Talay";
     }
 
     public string Address()

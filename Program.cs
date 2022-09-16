@@ -14,9 +14,11 @@
             if(number == 1)
             {
                 ShopInfo shopinfo = new ShopInfo();
+                Console.WriteLine("===================================================");
                 Console.WriteLine(shopinfo.Capital());
                 Console.WriteLine(shopinfo.BranchName());
                 Console.WriteLine(shopinfo.Address());
+                Console.WriteLine("===================================================");
 
                 Console.WriteLine("1 Shop infomation.");
                 Console.WriteLine("2 Co-founder's information.");
@@ -29,9 +31,11 @@
             else if(number == 2)
             {
                 CoFounder co = new CoFounder();
+                Console.WriteLine("=========================================================");
                 Console.WriteLine(co.MemberOne());
                 Console.WriteLine(co.MemberTwo());
                 Console.WriteLine(co.MemberThree());
+                Console.WriteLine("=========================================================");
 
                 Console.WriteLine("1 Shop infomation.");
                 Console.WriteLine("2 Co-founder's information.");
@@ -44,11 +48,13 @@
             else if(number == 3)
             {
                 Staff staff = new Staff();
+                Console.WriteLine("=========================================================================");
                 Console.WriteLine(staff.Staff01());
                 Console.WriteLine(staff.Staff02());
                 Console.WriteLine(staff.Staff03());
                 Console.WriteLine(staff.Staff04());
                 Console.WriteLine(staff.Staff05());
+                Console.WriteLine("=========================================================================");
 
                 Console.WriteLine("1 Shop infomation.");
                 Console.WriteLine("2 Co-founder's information.");
@@ -61,9 +67,11 @@
             else if (number == 4)
             {
                 InEx inex = new InEx();
+                Console.WriteLine("===================================================");
                 Console.WriteLine(inex.Revenue());
                 Console.WriteLine(inex.Expenses());
                 Console.WriteLine(inex.Balance());
+                Console.WriteLine("===================================================");
 
                 Console.WriteLine("1 Shop infomation.");
                 Console.WriteLine("2 Co-founder's information.");
